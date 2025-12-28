@@ -86,10 +86,11 @@ All screenshots are available in the `screenshots/` folder.
 
 ## 📝 Blog Post
 
-A detailed write‑up of the project, including screenshots and explanation of the workflow, is available in the AWS Builder Center blog (link added after publishing).
+A detailed write‑up of the project, including screenshots and explanation of the workflow, is available in the AWS Builder Center blog https://builder.aws.com/content/37U234mFFhdUoaVAM7iVwVYPMVj/the-local-guide-delhis-aqi-local-guide-powered-by-kiro
 
 ---
 
 ## 📜 License
 
 MIT License
+
